@@ -113,7 +113,7 @@ h2,h4{
     div.gallery{
         margin: 3px;
         float: left;
-        margin: 2px;
+        margin: 0px;
     }
         div.gallery img{
             width: 300px;
