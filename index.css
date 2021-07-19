@@ -111,7 +111,7 @@ h2,h4{
         border: solid 5px rgb(219, 159, 164);
     }
     div.gallery{
-        margin: auto;
+        margin: 3px;
         float: left;
         margin: 2px;
     }
