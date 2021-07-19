@@ -111,15 +111,14 @@ h2,h4{
         border: solid 5px rgb(219, 159, 164);
     }
     div.gallery{
-        margin: 3px;
         float: left;
         margin: 0px;
     }
         div.gallery img{
             width: 300px;
-            text-align: auto;
+            text-align: left;
             height: 300px;
-            margin: 2px;
+            margin: 0px;
 
         }
         ol{
