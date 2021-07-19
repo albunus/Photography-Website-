@@ -84,7 +84,7 @@ h2,h4{
       
     }
     hr{
-      border-style: solid red;
+      border-style: solid 1px red;
     }
     a{
       background-color:sandybrown;
