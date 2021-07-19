@@ -1,3 +1,8 @@
+
+  html {
+    background-image: url(https://images.unsplash.com/photo-1478145971721-10511ecaf005?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=638&q=80);
+  }
+}
 header{
     background-color: whitesmoke;
     margin: 30;
@@ -138,10 +143,11 @@ h2,h4{
  footer{
      text-align: center;
      border: solid black;
-     color: blanchedalmond;
+     color: rgb(8, 44, 161);
      width: 300%;
-     height: 10%;
+     height: 35%;
      float: right;
      background-color: black;
      margin: 2px;
+     font-size: x-large;
  }
